@@ -3,6 +3,7 @@ Founding Fullstack Engineer @ <a href="https://www.spoolapp.io/">Spool</a> (iOS/
 I enjoy competitive programming and speedsolving Rubik's Cubes.
 
 <a href="https://www.youtube.com/watch?v=2JfByq7g7Hs">My official Rubik's Cube Blindfolded World Record (22.67 seconds)</a>
+
 <a href="https://github.com/agrawalishaan/leetcode">900+ of my programming interview (Leetcode) solutions</a>
 
 My <a href="https://www.linkedin.com/in/ishaan-agrawal/">LinkedIn</a> | <a href="mailto:ishaan.agrawal@berkeley.edu">Email</a>
