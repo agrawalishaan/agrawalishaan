@@ -4,7 +4,7 @@ I enjoy competitive programming and speedsolving Rubik's Cubes.
 
 Official blindfolded Rubik's cube  <a href="https://www.youtube.com/watch?v=2JfByq7g7Hs">world record </a>(22.67 seconds)
 
-<a href="https://github.com/agrawalishaan/leetcode">900+ of my Leetcode solutions</a>
+900+ of <a href="https://github.com/agrawalishaan/leetcode">my Leetcode solutions</a>
 
 <a href="https://leetcode.com/agrawalishaan/">My Leetcode profile</a>
 
