@@ -2,7 +2,7 @@ Founding Fullstack Engineer @ <a href="https://www.spoolapp.io/">Spool</a> (iOS/
 
 I enjoy competitive programming and speedsolving Rubik's Cubes.
 
-<a href="https://www.youtube.com/watch?v=2JfByq7g7Hs">Official blindfolded Rubik's cube world record (22.67 seconds)</a>
+Official blindfolded Rubik's cube  <a href="https://www.youtube.com/watch?v=2JfByq7g7Hs">world record </a>(22.67 seconds)
 
 <a href="https://github.com/agrawalishaan/leetcode">900+ of my Leetcode solutions</a>
 
