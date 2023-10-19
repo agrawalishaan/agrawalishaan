@@ -6,7 +6,7 @@ Official blindfolded Rubik's cube  <a href="https://www.youtube.com/watch?v=2JfB
 
 900+ of <a href="https://github.com/agrawalishaan/leetcode">my Leetcode solutions</a>
 
-<a href="https://leetcode.com/agrawalishaan/">My Leetcode profile</a>
+<a href="https://leetcode.com/agrawalishaan/">My Leetcode profile</a> (top 1% rank)
 
 
 My <a href="https://www.linkedin.com/in/ishaan-agrawal/">LinkedIn</a> | <a href="mailto:ishaan.agrawal@berkeley.edu">Email</a>
