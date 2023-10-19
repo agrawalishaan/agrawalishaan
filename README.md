@@ -1,4 +1,4 @@
-Founding Fullstack Engineer @ <a href="https://www.spoolapp.io/">Spool</a> (iOS/Android app), a creator tool-suite for Threads, Meta's competitor for Twitter/𝕏. It includes a high-fidelity editor, AI assistant, and more. We have a signup waitlist here: (https://bit.ly/3PTUzlk). Code in React/Typescript/Node.js. Use Redux, AWS, React Native, Express, Next.js. Work on a small team going 0-1 for the product. I work on the AI assistant backend (we use OpenAI API), account management system, mobile application, in-app purchase system, and website.
+Founding Fullstack Engineer @ <a href="https://www.spoolapp.io/">Spool</a> (iOS/Android app), a creator tool-suite for Threads, Meta's competitor for Twitter/𝕏. Spool includes a high-fidelity editor, AI assistant, and more. We have a signup waitlist here: (https://bit.ly/3PTUzlk). Code in React/Typescript/Node.js. Use Redux, AWS, React Native, Express, Next.js. Work on a small team going 0-1 for the product. I work on the AI assistant backend (we use OpenAI API), account management system, mobile application, in-app purchase system, and website.
 
 I enjoy competitive programming and speedsolving Rubik's Cubes.
 
